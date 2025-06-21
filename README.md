@@ -2,7 +2,7 @@
 
 * Commit guide
 
-# Conventional Commit Messages [![starline](https://starlines.qoo.monster/assets/qoomon/5dfcdf8eec66a051ecd85625518cfd13@gist)](https://github.com/qoomon/starline)
+# Industry Commit Guide
 
 See how [a minor change](#examples) to your commit message style can make a difference. 
 
