@@ -1,7 +1,3 @@
-# storage
-
-* Commit guide
-
 # Industry Commit Guide
 
 See how [a minor change](#examples) to your commit message style can make a difference. 
